@@ -25,7 +25,7 @@
         {
           "component": "text",
           "valueType": "string",
-          "name": "testheader",
+          "name": "jcr:testheader",
           "label": "testheader"
         }
       ]
